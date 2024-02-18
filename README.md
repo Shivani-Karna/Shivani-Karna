@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivani-Karna
 - 👀 I’m interested in FrontEnd Development...
-- 🌱 I’m currently working as Frontend Developer @ Meerako Services
+
 
 - 📫 How to reach me ...
 
